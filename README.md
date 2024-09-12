@@ -16,6 +16,8 @@
 <h2>To install router on your code editor terminal or in cmd - run this command</h2>
 <h2>npm install react-router-dom --save</h2>
 <ul>
+ <h2><b> Hooks </b></h2>
+ <li>useParams</li>
  <h1><b>Programing Languages<b></h1>
 <h2><b>Front-End</b></h2>
 <li>HTML5</li>
