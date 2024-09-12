@@ -7,9 +7,9 @@
 <ul>
  <li>Routing</li><br>
  <img src="cover.PNG"><br><br>
- <li>Nested Routing</li><br>
+ <li>Nested Routing(a hook that is called inside a nested function).</li><br>
  <img src="nested.PNG"><br><br>
- <li>Passing Parameter Routing - using useParams Hook (that returns a dynamic parameter of the URL that the user is currently on)</li><br>
+ <li>Passing Parameter Routing - using useParams Hook (that returns a dynamic parameter of the URL that the user is currently on).</li><br>
  <img src="params.PNG"><br><br>
  &nbsp;&nbsp;<p>-----This three routing have shown here.------</p>
 </ul>
