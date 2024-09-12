@@ -5,9 +5,9 @@
  <br>
 <p>In react router helps to redirect the pages from one to another without loading the browser.It works very felixible and in effcient way.</p>
 <ul>
- <li>Routing</li><br>
+ <li>Routing(the process of navigating between different pages without triggering a full page reload).</li><br>
  <img src="cover.PNG"><br><br>
- <li>Nested Routing(a hook that is called inside a nested function).</li><br>
+ <li>Nested Routing(a type of routing in which one route is linked to another route.).</li><br>
  <img src="nested.PNG"><br><br>
  <li>Passing Parameter Routing - using useParams Hook (that returns a dynamic parameter of the URL that the user is currently on).</li><br>
  <img src="params.PNG"><br><br>
