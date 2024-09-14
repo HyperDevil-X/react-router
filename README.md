@@ -1,21 +1,24 @@
 <h1 align ="center">REACT ROUTER</h1>
-<!-- <h2><a href="https://hyperdevil-x.github.io/formvalidation/" target="_blank">Form Link</a></h2> -->
+<h2><a href="https://mmjtechnologies-react-router.netlify.app/" target="_blank">Website Link</a></h2>
 <img src="cover.PNG">
  <h3  align ="center"><b>Routing || Nested Routing || Passing Parameter Routing</b></h3>
  <br>
 <p>In react router helps to redirect the pages from one to another without loading the browser.It works very felixible and in effcient way.</p>
 <ul>
- <li>Routing</li><br>
+ <li>Routing(the process of navigating between different pages without triggering a full page reload).</li><br>
  <img src="cover.PNG"><br><br>
- <li>Nested Routing</li><br>
+ <li>Nested Routing(a type of routing in which one route is linked to another route.).</li><br>
  <img src="nested.PNG"><br><br>
- <li>Passing Parameter Routing - using useParams Hook (that returns a dynamic parameter of the URL that the user is currently on)</li><br>
+ <li>Passing Parameter Routing - using useParams Hook (that returns a dynamic parameter of the URL that the user is currently on).</li><br>
  <img src="params.PNG"><br><br>
  &nbsp;&nbsp;<p>-----This three routing have shown here.------</p>
 </ul>
 <h2>To install router on your code editor terminal or in cmd - run this command</h2>
 <h2>npm install react-router-dom --save</h2>
+<img src="install.PNG"><br><br>
 <ul>
+ <h2><b> Hooks </b></h2>
+ <li>useParams</li>
  <h1><b>Programing Languages<b></h1>
 <h2><b>Front-End</b></h2>
 <li>HTML5</li>
